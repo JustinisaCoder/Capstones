@@ -23,17 +23,8 @@ straight from the terminal.
 
 ---
 
-### Home Screen
-![Home Screen Screenshot](screenshots/HomeScreen.png)
-
-### Ledger Screen
-![Ledger Screen Screenshot](screenshots/LedgerScreen.png)
-
-### Reports Screen
-![Reports Screen Screenshot](screenshots/Reports.png)
-
 ### Interesting Piece of Code
-![Interesting Piece of Code Screenshot](screenshots/CustomSearch.png)
+
 One of the most challenging things that I learned how to implement was the custom search. I challenged myself by not looking for outside help unless absolutely nessesary. What this piece of code allows you to do is it allows the user to search any transaction, granted that they put the information. It also filters out any unnessesary words so the search only functions when you put key words lets say "Chipotle" for instance. This sidequest taught me how handle user logic gracefully.
 
 ---
